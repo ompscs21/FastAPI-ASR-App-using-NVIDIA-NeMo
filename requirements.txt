@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+numpy
+torchaudio
+onnxruntime
+nemo_toolkit[asr]
